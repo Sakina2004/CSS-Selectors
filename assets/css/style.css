@@ -1,8 +1,8 @@
-body{
+/* * body{
     background-color: blueviolet;
-}
-p{
-          color: green;  
+} * */
+* p{
+          color: green ;  
  }
  span{
     color: black;
@@ -16,7 +16,7 @@ p{
  #uni{
     color: green;
  }
- #v{
+ v{
     color: black;
  }
  .text-pink
@@ -28,4 +28,17 @@ p{
  }
  .bg-dark{
     background-color: black;
+ } 
+ .text-pink.bg-dark{
+   background-color: rgb(48, 47, 47);
  }
+ .vusal p{
+   color: red;
+ }
+ /* *{
+    color: yellow;
+    background-color: green;
+   }
+   span{
+    color: black;
+   } */
